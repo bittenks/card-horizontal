@@ -5,6 +5,7 @@
 }
 
  html, body {
+     background-image: url(https://image.freepik.com/vetores-gratis/papel-de-parede-de-formas-geometricas-de-design-plano_23-2148374535.jpg);
     background-color: #EDF2F8 ;
     height: 100%;
 
@@ -29,11 +30,12 @@
 
 center {
  margin: 0;
- padding-top: 300px;
+ padding-top: 200px;
 }
 
 
 
 .card-body{
     
+    padding-left: 70px;
 }
