@@ -13,4 +13,4 @@ Me inspirei em [um desafio](https://www.frontendmentor.io/challenges/article-pre
 Prévia do projeto
 https://bittenks.github.io/card-horizontal/
 
-![alt text](https://github.com/bittenks/login/blob/main/login.gif)
+![alt text](https://github.com/bittenks/card-horizontal/blob/main/card-h.gif)
