@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&family=Lato:wght@700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +14,7 @@
     
 }
 
-.card-mb-3{
+.card-mb-3 {
     display: block;
     -webkit-box-shadow: 0px 6px 11px 1px rgba(0,0,0,0.3); 
     box-shadow: 0px 6px 11px 1px rgba(0,0,0,0.3);
@@ -37,5 +39,18 @@ center {
 
 .card-body{
     
+    padding-left: 70px;
+}
+
+.card-title{
+    font-size: 2rem;
+    font-family: "Lato" ;
+}
+
+.card-text{
+    font-size: 1.2rem;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.perfil{
     padding-left: 70px;
 }
