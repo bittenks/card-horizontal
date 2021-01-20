@@ -54,3 +54,42 @@ center {
 .perfil{
     padding-left: 70px;
 }
+
+@media (max-width: 800px) {
+       
+    .card-mb-3 {
+        size: 100vh;
+        
+   }
+     html, body {
+        background-image: none;
+        background-color: white;
+        height: 100%;
+
+
+    }
+
+    .card-body{
+    
+        padding-left: 0px;
+    }
+
+    .perfil{
+        padding-left: 0px;
+    }
+
+    .card-mb-3 {
+        display: block;
+        -webkit-box-shadow: 0px 6px 11px 1px rgba(0,0,0,0.3); 
+        box-shadow: none;
+        flex-wrap: wrap;
+        background-color: white;
+        border-bottom: none;
+        border-radius: 5px;
+        box-shadow: black;
+        
+        justify-content: center;
+        align-items: center;
+    }
+
+    }
